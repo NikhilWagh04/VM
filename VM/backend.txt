@@ -1,0 +1,24 @@
+npm init -y : to initialize package.json file
+in package.json "scripts" add ,"serve" : "node index.js"
+now we can do npm run serve
+
+npm i express
+
+gitbash download
+git --version
+create .gitignore and put node_modules
+
+npm i nodemon -D
+in package.json "scripts" add ,"dev" : "nodemon index.js"
+now we can do npm run dev
+
+npm install mongodb
+npm i mongoose
+
+user.model.js
+
+git clone https://github.com/NikhilWagh04/wadl
+
+GitHub.com/mskunal07/wad
+
+www.Tinyurl.com/thalafor

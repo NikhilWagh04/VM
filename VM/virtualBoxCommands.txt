@@ -1,0 +1,25 @@
+1)command : ssh  
+	for checking ssh present or not
+	
+2)command : sudo apt install openssh-server
+	for installing ssh
+	
+3)command : sudo service ssh start
+	for staring ssh 
+	
+4)command : sudo service ssh status
+	for checking ssh staus i.e. running or not
+
+5)command : touch filename
+	for creating file
+
+6)command : ifconfig
+	for viewing ip address
+	
+7)command : scp filename usernameOfAnotherPc@ip_Of_Another_Pc:Another_Machine_PathTo_Save
+	for transfering file to other virtual machine
+
+sudo apt install net-tools
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblB4d1NPTU5vMWptbzNLbzF5VlRtZklMQlh3QXxBQ3Jtc0tsLXJSX3BDLWphRXh5MVc0c1RwNEhXSlg2VjZOY3VVd3pJaTFjRldGc3BmWTUxTlNSV3Npa2hSUjRKUnVsZUpvTWowb3c2em5tRlJ0bFdDU2hSYmFVQ05xclFnSU5sNnd0TElqT0pPTWVSbFAtSWl1WQ&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F0%2Ffolders%2F1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt&v=0MaS0nZCTZc
+
